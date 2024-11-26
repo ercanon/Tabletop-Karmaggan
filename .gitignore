@@ -1,0 +1,50 @@
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# Lua y compilaciones
+*.luac       # Archivos compilados de Lua
+*.bak        # Archivos de respaldo
+
+# Logs y temporales
+*.log
+*.tmp
+*.swp        # Archivos de intercambio (swap)
+*.sublime-workspace
+*.vscode/
+*.idea/      # Configuración de JetBrains (PyCharm, IntelliJ, etc.)
+
+# Archivos de entorno
+.env
+*.env.local
+.env.*
+
+# Archivos binarios y ejecutables
+*.exe
+*.dll
+*.so
+*.dylib
+*.out
+
+# Configuración de editores
+.vscode/     # Configuración de VS Code
+.idea/       # Configuración de IntelliJ
+*.sublime-project
+*.sublime-workspace
+*.vs
+
+# Archivos específicos del proyecto
+build/       # Carpeta de compilación (si usas alguna herramienta que genere archivos)
+output/
+logs/
+
+# Recursos o assets temporales
+*.png~
+*.jpg~
+*.tmp
+*.psd~
+*.bak
+
+# Directorios que contengan assets generados
+assets/cache/
+assets/temp/
