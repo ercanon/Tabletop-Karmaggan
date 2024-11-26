@@ -1,8 +1,10 @@
 function onLoad(script_state)
+    startGame = JSON.decode(script_state).start
     local objects = self.getObjects()
 
-    if #objects >= 9 then
+    if #objects >= 9 and not startGame then
         local positions = setTrans()
+        startGame = true
         for _, item in ipairs(objects) do
             local rand = math.random(#positions.pos)
 
@@ -15,6 +17,10 @@ function onLoad(script_state)
             table.remove(positions.rot, rand)
         end
     end
+end
+
+function onSave()
+    return JSON.encode({start = startGame})
 end
 
 function setTrans()

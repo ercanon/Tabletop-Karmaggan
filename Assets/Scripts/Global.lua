@@ -1,6 +1,6 @@
 function onLoad()
     numDice = -1
-    rotCue = {}
+    rotCue = {}    
 end
 
 function rotateRing(ringParams)
@@ -28,7 +28,7 @@ function rotateRing(ringParams)
             end
         end
 
-        rotRing.setRotationSmooth({0, rotRing.getRotation().y + 22.5 * numDice * ringParams.direction, 0})
+        rotRing.setRotationSmooth({0, rotRing.getRotation().y + 22.5 * numDice * ringParams.direction, 0}, false, false)
 
         Wait.condition(
         function()

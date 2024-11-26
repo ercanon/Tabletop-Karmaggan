@@ -5,11 +5,8 @@ function onLoad(script_state)
     lRoller.interactable = false
     rRoller = getObjectFromGUID('c70c93')
     rRoller.interactable = false
+    rotValue = 0
 
-    if not midGame then
-        lRoller.setPosition({-16.90, 0, -16.90})
-        rRoller.setPosition({16.90, 0, 16.90})
-    end
 end
 
 function onSave()
@@ -18,8 +15,9 @@ end
 
 function onFixedUpdate()
     if midGame then
-        --lRoller.setRotation({lRoller.getRotation().x - 5, 135, 0})
-        --rRoller.setRotation({rRoller.getRotation().x + 5, 315, 0})
+        rotValue = rotValue + 1 % 360
+        lRoller.setRotation({rotValue, 135, 0})
+        rRoller.setRotation({rotValue, 315, 0})
     end
 end
 
@@ -33,9 +31,17 @@ function onDrop(colorPlayer)
     if not midGame then
         for _, obj in ipairs(listBelow) do
             if listBelow[1].hit_object.hasTag('Player') and obj.hit_object.getGUID() == '035c97' then
+                broadcastToAll('El Huevo ha sido perturbado', {0.33,0.2,1})
+                broadcastToAll('The Egg has been disturbed', {0.33,0.2,1})
                 midGame = true
                 lRoller.setPositionSmooth({-16.9, 3, -16.9}, false)
                 rRoller.setPositionSmooth({ 16.9, 3,  16.9}, false)
+
+                Lighting.light_intensity = 1.5
+                Lighting.ambient_intensity = 2
+                Lighting.lut_contribution = 0.8
+                Lighting.setLightColor({r = 0.33, g = 0.2, b = 1})
+                Lighting.lut_index = 45 --Truly 46
                 break;
             end
         end
