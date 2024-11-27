@@ -1,0 +1,61 @@
+>---------------{TAR SPAWNS}---------------<
+Within KARMAGGÄN, no life is wasted. The Raiders who die within its walls are transformed into an formless mass of tar; more terrifying, multiplied. They are known as Tar Spawns, and they are the ultimate nightmare of the Temple.
+
+
+[A NEW LIFE]
+When a Raider loses all their Blood Coins, they are removed from the Temple. On the Tile where their body once lay, a Summoning Tile is placed (if they were the first to die, or the first of their team, a second Invocation Tile is placed on an adjacent Tile).
+
+All the players whose Looters have died will now control the same Swarm of Tar Spawns.
+
+In a Free-for-All match, the goal of the Tar Spawns is to prevent the Alien Egg from leaving the Temple at all costs. In a Team Match, there will be two rival Swarms (Dark and Light), each tasked with ensuring the victory of any remaining allied players. The maximum number of Tar Spawns per team is 6.
+
+
+[CONTROLLING THE SWARM]
+At the beginning of a player's turn who controls the Tar Spawns, they can choose between two actions:
+* SUMMON: the player must place a new Tar Spawn on an unoccupied Summoning Tile.
+* MOVE: the player will roll dice normally and keep the higher result. They can distribute the movement points however they like (e.g., if they roll a 5, they can move one Tar Spawn 2 tiles and another 3 tiles, etc.). Unlike Raiders, the Tar Spawn's turn does not end when they lose a battle.
+
+At any time during their turn (except during battle), a Tar Spawn can be sacrificed. When this happens, a Summoning Tile is placed on the tile where it was sacrificed, overriding the previous tile type. At any time during their turn (except during battle), a player controlling the Tar Spawns can play a Golden Medallion to summon a new Tar Spawn.
+
+When an Tar Spawn attacks, the player whose turn it is will participate in the battle. However, when an Tar Spawn is attacked, the players controlling the Swarm will decide who defends the combat.
+
+There are Object Cards that can only be used on Raiders, but others can be used on players (e.g., stealing cards) whether they control a Raider or the Tar Spawn.
+
+The Tar Spawn cannot step on the Tile where the Egg is located unless a Raider is carrying it.
+
+The Tar Spawn CANNOT LEAVE the Temple.
+
+
+
+>---------------{RAIDERS}---------------<
+[JULIÁN RODRÍGUEZ DEL ALMÍBAR]
+Enter the world through the sensual gaze of Julián Rodríguez del Almíbar. With his Salsa moves and irresistible charm, he is ready to overcome every obstacle in the Temple to get the Egg and dazzle the love of his life of this week.
+
+
+[NAYA SANGAQUIX]
+The last descendant of the Piripkora, the people tasked with guarding the Temple for millennia. All of them are being transformed into trees, claimed by the corrupt jungle of KARMAGGÄN. The eclipse is near, and Naya Sangaquix does not want to see her people disappear, so she will venture into the Temple to steal the Egg and end the Protection Pact.
+
+
+[AX/T9.068STN-Ol]
+An interplanetary probe that has been tracking the Stray Organism for thousands of years. Its search has led it to Earth. This artifact is programmed to collect the remains it finds and return them to the space station beyond the Solar System, where they can be meticulously analyzed.
+
+
+[HIRANYAGARBHA AND HATI]
+After his glory years as a treasure hunter, Hiranyagarbha has amassed an incredible collection of antiques in his palace. However, Hati, his parrot, hasn't forgotten about the most precious treasure. After ten years of squawking "KARMAGGÄN, KARMAGGÄN!!" Hiranyagarbha is tired of hearing it, and to make Hati quiet down, he is ready to embark on one final adventure.
+
+
+[ISHIKAWA FAMILY]
+The Ishikawa family's photo albums are their greatest pride. They collect all the vacations from the past century and boast about the wonderful destinations they've visited. But lately, the Tanaka family's albums have been catching up, and the Ishikawa family cannot tolerate that. Therefore, they are ready to venture into the heart of the jungle to prove who has the best vacations. And if they can bring back a souvenir from the trip, even better.
+
+
+[PIZZA]
+Yes, a pizza. Nice and juicy. No one knows what it's doing in the Temple or how it manages to move around, but you can't deny that a little touch of the Alien Egg would go perfectly with it.
+
+
+[BIETKA]
+"Rid'n Hôghzanw!! Uzmh Plwoü Waotan'g!! Uta K'ar M'aggän."
+Bietka is part of the Worshipers of KARMAGGÄN, a cult dating back to the Purple Night, according to the writings in their library in the Carpathians. Together, they ventured into the jungle. One by one, they have fallen, and Bietka is the last survivor. She is determined to steal the Egg at any cost to perform the Ritual of Rebirth.
+
+
+[ABUYI, THE MONKEY]
+Doing business with Abuyi is always a pleasure, but being in debt to him can be really dangerous. He’s been speculating on the valuable shell of the Egg in his deals, but since none of the messengers he’s sent have been in real financial trouble, he’s decided to take desperate measures and go to Karmaggãn himself to save his business.

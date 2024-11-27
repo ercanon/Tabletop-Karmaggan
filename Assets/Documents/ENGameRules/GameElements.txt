@@ -1,0 +1,220 @@
+>---------------{TILES}---------------<
+There are several types of tiles in KARMAGGÄN, and it's important to know what happens when stepping on each one.
+
+
+[EMPTY TILES]
+Nothing happens.
+You can run across them without worrying about your safety.
+
+
+[ABYSS TILES]
+These tiles cannot be stepped on.
+They have crumbled over an unfathomable void. There may be multiple Abyss Tiles together, but each one is considered individually.
+
+
+[OBJECT TILES]
+When a Raider steps on an Object Tile, they automatically steal an Object Card (if possible) and continue their movement.
+
+
+[SUMMONING TILES]
+A Summoning Tile will appear, regardless of its original type, wherever the body of a dead Raider or a sacrificed Tar Spawn. Even if it was a Blood Tile, it will lose any Blood Coins it may have contained.
+
+
+[TEMPLE TILES]
+When a Raider steps on a Temple Tile, their movement stops, and the tile is automatically activated.
+To activate a Temple Tile, the top card of the Temple Deck is flipped, and its effect is applied. Once the effect has been resolved, the Raider can resume their turn.
+The Central Ring is considered one large Temple Tile.
+
+
+[BLOOD TILES]
+When a Raider steps on a full Blood Tile, they automatically consume it if they choose to.
+By consuming it, they gain as many Blood Coins (BC) as indicated on its face (2, 3, or 4 BC, or an extra Golden Medallion).
+Afterward, the Raider can resume their turn as usual.
+Once consumed, a Blood Tile is transformed into an Empty Tile for all purposes.
+
+
+[PASSAGE TILES]
+The four Passage Tiles are interconnected.
+When a Raider activates one, they can resume their movement from any other Passage Tile. This does not count as an additional move.
+Each Passage Tile is distinct, meaning a Raider can activate two different ones in the same turn.
+
+
+>=====|IMPORTANT|=====<
+Tar Spawns do not activate Temple, Blood, or Passage Tiles but can activate Object Tiles.
+
+A single Raider cannot activate the same tile twice in one turn.
+
+A tile occupied by a Raider is considered activated, and it cannot be activated again until it is no longer occupied. Therefore, if a Raider starts their turn on a tile they wish to activate, they must first step off it.
+
+Starting Points are considered Empty Tiles for all purposes.
+
+
+
+>---------------{TRAPS}---------------<
+[WALL TRAPS]
+You might have noticed strange killing mechanisms embedded in the walls of the Rings.
+Yes, those are the Ring Traps.
+
+The Ring Traps consist of Arrows, Acid, and Fire and can only be triggered by Temple Tiles. When one of these traps is activated, all traps of the same type in that Ring wall will trigger, extending outward from the wall toward the outer edge of the Temple. If you're caught in the path of an active trap, you will suffer the corresponding damage:
+* ARROWS: Lose 1 Blood Coin (BC).
+* ACID: Lose (1D6) - 2 BC.
+* FIRE: Lose 2 BC.
+
+A trap will continue spreading toward the outer edge of the Temple unless something blocks its path. The only things that can stop a Temple Trap are:
+* Another wall
+* Another Raider
+* A Tar Spawn
+
+Abyss Tiles do not block the path of traps.
+
+But don’t think the walls are the only deadly dangers awaiting you, many other things in the Temple will make you wish you'd never entered.
+
+
+[ROLLERS]
+The Rollers appear only after the Egg leaves the Central Ring for the first time. They remain suspended between two rows of tiles and only affect the Outer Ring.
+
+Any Raider will take damage whenever they cross the space occupied by a Roller. This can happen in several ways:
+
+* Being dragged by the rotation of the Outer Ring
+* Being controlled or pushed by an opponent
+* Moving voluntarily if the situation is truly desperate
+
+The damage caused by crossing a Roller is determined by a roll of a D6, reduced by one: (1D6) - 1.
+Each Raider rolls individually to calculate the damage they take. This damage results in the loss of 2, 3, 4, or even 5 Blood Coins.
+
+
+[PISTON]
+The Piston can only be activated through Temple Tiles, and when it is triggered, it affects only the Central Ring of the board and anyone standing on it.
+
+If a Raider is crushed by the Piston, they lose half of their Blood Coins, always rounding in their favor (e.g., if they have 7 Coins, they lose 3; if they have only 1 Coin, they lose none).
+
+
+[TRANSLATIONS]
+The Temple Rings can rotate in either direction, moving 1 to 6 sectors, as determined by a roll of a D6.
+
+
+[BATTERING RAM]
+The Raider who activates the Battering Ram must discard their hand and draw four new cards.
+
+
+[FLASH]
+If a Raider activates a Temple Tile and triggers the "Iris Flash", they will resume their movement from another Temple Tile within the same ring. This does not activate the new tile and does not count as additional movement.
+
+
+>=====|IMPORTANT|=====<
+Tar Spawns are immune to all damage caused by Temple Traps.
+However, they do block the path of Wall Traps.
+
+
+
+>---------------{OBJECTS}---------------<
+Only one card can be played per turn. Object Cards can be played at ANY POINT during your turn, except during battle (before or after rolling the dice, during movement, or after finishing it). Cards drawn during the turn can also be played.
+
+Object Cards are drawn from the Object Deck when stepping on an Object Tile, and only if the player wishes to do so.
+
+The effects of each Object Card are described below:
+
+
+[GREEDY FINGERS] x3
+Steal a random card from one or two different players.
+
+
+[MISHMASH] x5
+Draw 3 cards from the Object Deck.
+
+
+[POLE] x5
+Allows to step the next Abyss Tile this turn, but you cannot end the turn on it.
+
+
+[EMBEDDED GAZE] x5
+Reveal the top card of both the Temple Deck and Object Deck. This way, all players will know the next cards.
+
+
+[UNPRONOUNCEABLE SPELL] x5
+Cancels the effect of the next Tile you step on during this turn.
+
+
+[BLOOD STONE] x5
+Choose one of the following effects:
+* Gain 1 Blood Coin.
+* Transfer 1 of your Blood Coins to another player.
+
+
+[CONTACT HELMET] x1 Null, x1 Attack, x3 Counter
+Choose a Ring and a direction, roll a 6-sided dice to determine how many sectors it will move.
+
+
+[SPARKS STONE] x5
+Allows you to move wo additional Tiles.
+
+
+[DH'OR AEG'H MORN'S SWORD] x2
+Has no effect when activated, but is extremely effective in battle.
+
+
+[KHALEIDAS' SALIVA] x6
+Draw a card from the Object Deck and activate Temple Cards as dictated by a dice roll.
+
+
+[DELIBERATE ECLIPSE] x1
+The most powerful card in the game. The player who activates it automatically closes all Temple Gates and discards the rest of their hand.
+
+
+[ARCANE CARVING] x3
+Choose one of the following effects:
+* Another player draws 2 cards from the Object Deck.
+* Discard a random card from another player’s hand.
+
+
+[SIAMESES' RING] x6
+Draw a card from the Object Deck and place 2 Temple Tiles on Empty Tiles.
+
+
+[TAR] x13
+Lose 1 Blood Coin and draw 3 cards from the Object Deck.
+
+
+[DOMINANCE'S DAGGER] x5
+Move another player 2 Tiles, activating them as they pass. 
+If a Passage Tile is activated, the player who activated the Card decides the exit point. 
+If a Roller threshold is crossed, the controlled player will suffer the corresponding damage.
+The controlled player cannot enter into battle with another.
+
+
+>=====|IMPORTANT|=====<
+By paying a Golden Medallion, an additional card may be played during the same turn.
+
+The maximum number of Object Cards a player can hold is 8. No new cards can be drawn until others are played.
+
+When an Object Card is played, its effects are applied immediately. Object Cards cannot be played during a player’s first turn.
+
+You are allowed to try to look at other players’ cards. This rulebook fully endorses your cunning and malice.
+
+Players controlling the Tar Spawn cannot activate Object Cards. They may only reserve them for battle.
+
+
+
+>---------------{ALIEN EGG}---------------<
+In this section, everything involving the wonderful Egg we all desire is detailed. 
+
+The Alien Egg starts every game in the Central Ring. 
+
+When a Raider occupies the same Tile as the Egg, they automatically carry it with them.
+
+When the Egg leaves the Central Tile for the first time, the Rollers are activated.
+
+The Raider carrying the Egg can only roll one dice to determine their maximum movement.
+
+To pass the Egg between Raiders of the same team, it is enough that both are located in adjacent tiles, with no obstacle between them, and it is the turn of one of them. (For example: the Pole can be used to place the Egg on an Abyss Tile and taking or handing over the Egg).
+
+The Egg cannot be handed over between Tiles in a diagonal direction. To forcibly take the Egg, a battle must occur, and the current holder must be defeated.
+
+The Egg can be thrown to another Raider if there is a clear line of sight, just like a Wall Trap: from the inside to the outside, with no walls or other Raiders in the way.
+
+The Egg can be thrown at any moment during the Raider’s turn. (For example, the Dagger of Dominion can be used to move the Raider carrying the Egg, reach a line of sight, and throw the Egg to another Raider).
+
+There is no line of sight if the Rings are in motion.
+
+>=====|IMPORTANT|=====<
+A Tar Spawn cannot end their turn on the same Tile as the Egg. They also cannot carry it or acquire it in any way. If a Tar Spawn kills a Raider carrying the Egg in a battle, they will throw the Raider 3 Tiles away and the Egg 1 Tile away. If there is already a Tar Spawn on that Tile, the Egg can be thrown to another Tile, or as many as necessary.

@@ -1,0 +1,83 @@
+>---------------{TURNS}---------------<
+A player controlling a Raider may move, use objects, engage in battle, and manipulate the Egg if it is within reach.
+
+
+
+>---------------{MOVEMENT}---------------<
+Raiders can move forward, backward, and sideways, but never diagonally. In fact, no action in the game can be performed diagonally. It's simply beyond their comprehension.
+
+To determine how many tiles a Raider can move during their turn, the controlling player rolls 2 dice. The higher result indicates the maximum number of tiles they can move (from 1 to 6). They can choose to move fewer tiles if they wish or even remain completely still; the roll determines the maximum number of tiles that can be moved. UNDER NO CIRCUMSTANCES can a Raider or Spawn end their turn on a tile occupied by another.
+
+
+>=====|IMPORTANT|=====<
+It is necessary to step on each tile one by one during movement. This way, the Temple's effects take place at the right moment and location. No skipping tiles or performing miraculous leaps. Step by step.
+
+The player controlling the Tar Spawns, who decides to move them around the Temple, may distribute the result of the roll among as many Spawns as they wish (e.g., if they roll a 5, they can move one Spawn 3 tiles and another 2 tiles, or move one tile each to five Spawns).
+
+A player's turn who controls the Tar Spawns does not end if they lose a battle.
+
+
+
+>---------------{BATTLES}---------------<
+Battles occurs when two players occupy the same Tile (Raider vs. Tar Spawn, Tar Spawn vs. Tar Spawn, Raider vs. Raider).
+
+Players may agree to a truce or establish conditions to avoid a fight, but if any negotiation fails, it’s time for violence. The player whose turn it is is considered the Attacker, and the one who is not playing their turn is considered the Defender.
+
+A battle is resolved in 3 Rounds. When a player loses a round, they give one Blood Coin to the winner.
+
+The Raider or Tar Spawn that dies during battle loses the fight.
+
+If there is no casualty, the player who has won the most rounds by the end of the battle is considered the winner. In case of a tie in the number of rounds won, the Defender wins the battle.
+
+
+[ASSAULTS]
+A round is resolved as follows:
+The two players involved in the battle reveal an Object Card from their hands at the same time, and compare the battle Values of each card.
+
+There are four types of battle Values:
+* NULL
+* ATTACK
+* COUNTER
+* ABSOLUTE POWER
+
+Each round, unless there is a tie, the loser must give 1 Blood Coin to the winner, and the cards that were used are discarded.
+
+Each round that results in a tie, the cards that were used will return to their respective owners' hands once the battle is over.
+
+* A card with ATTACK value will win against a card with NULL.
+* A COUNTER card will win against an ATTACK card.
+* A ABSOLUTE POWER card defeats NULL, ATTACK, and COUNTER.
+* DH'OR AEG'H MORN'S SWORD card defeats any value card.
+* All other results are ties.
+
+
+[BATTLE END]
+The defeated player will be thrown by the winner a total of 3 tiles away (not necessarily in a straight line, but not diagonally), without activating any of them. If there is another Raider or Tar Spawn on the tile, they can be thrown an additional tile, or as many as necessary.
+
+The defeated player will lose the Egg if they have it, and it will automatically pass into the hands of the winner.
+
+If a Raider dies in battle, they will first be thrown, and the effects of a Tar Spawn will occur where their body lands.
+
+If a Raider is thrown through the Roller's threshold, they will suffer the corresponding damage.
+
+If a player cannot or does not want to play cards during battle, they will pay 1 Blood Coin to their opponent for each round in which they did not play a card.
+
+Once the battle ends, both players draw cards until they have a minimum hand of 3 cards.
+
+
+>=====|IMPORTANT|=====<
+If a Raider loses a round to a Tar Spawn, 1 Blood Coin is discarded instead of giving it to the opponent. Each Tar Spawn can have only 1 Blood Coin, so it will die as soon as it loses a round.
+
+
+
+
+>---------------{FINAL STAGES}---------------<
+A Raider has managed to leave the Temple with the Alien Egg!
+
+NOT SO FAST.
+
+To declare victory, a Raider must exit the Temple with the Egg into the Jungle. Therefore, other Raider still have a chance to leave the Temple through the same exit and claim the Egg through a final battle.
+
+A player whose Raider is outside the Temple cannot use Object Cards, but is immune to all effects of Object and Temple Cards.
+
+When a Raider loses a battle in the Jungle, they are eliminated from the game, and the winner must endure one final turn to escape with the Egg.

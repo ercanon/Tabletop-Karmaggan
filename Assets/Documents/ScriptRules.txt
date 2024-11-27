@@ -1,0 +1,38 @@
+>---------------{ESPAÑOL}---------------<
+Cuando un Aro tenga que rotar, el jugador tiene 15s para rollear el Dado de Templo (dado negro).
+
+Un boton de debug de la rotacion de los Aros se encuentra escondido en el borde de la mesa, debajo de las bolsas de tokens.
+
+Por razones de seguridad, utiliza sólo el dado negros para rotar los Anillos.
+
+Las Normas de Juego se encuentran debajo de la mesa.
+
+
+
+>---------------{ENGLISH}---------------<
+When a Ring needs to rotate, the player has 15s to roll the Temple Dice (black dice).
+
+A Ring rotation debug button is hidden under the table, below the token bags.
+
+For safety reasons, use only the black dice to rotate the Rings.
+
+The Game Rules can be found in this Notebook.
+
+
+
+>---------------{GAME SUMMARY}---------------<
+Obtain the Alien Egg by overcoming the Temple and your rivals.
+
+To move through the Temple, roll two D6 dice. The higher result will determine the maximum number of Tiles you can step on during your turn. Choose how far you wish to move within this limit.
+
+Know the Tiles you step on: some bring chaos, others bring hope.
+
+You can play an Object Card at any time during your turn, but doing so means it will not be available for battle.
+
+Engage in real-time battle against other players, trying to outsmart their tricks.
+
+Avoid traps and defeats—losing all your Blood Coins means death.
+
+But death is not the end: the dead become part of the Tar Spawn Swarm as a single team.
+
+You can play either Team vs. Team or Free-for-All.

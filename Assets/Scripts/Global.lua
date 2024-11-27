@@ -6,7 +6,7 @@ end
 function rotateRing(ringParams)
     table.insert(rotCue, ringParams) 
     broadcastToAll('Roll the Temple Dice (Black Dice)', {1,1,1})
-    broadcastToAll('Lanza el Dado de Templo (Dado Negro)', {1, 1, 1})
+    broadcastToAll('Lanza el Dado de Templo (Dado Negro)', {1,1,1})
 
     Wait.condition(
     function ()
@@ -19,7 +19,7 @@ function rotateRing(ringParams)
             Physics.cast({
                 origin       = rotRing.positionToWorld(point.position),
                 direction    = {0,1,0},
-                max_distance = 5})) 
+                max_distance = 6})) 
             do
                 if object.hit_object.hasTag('Collider') then
                     colList = colList + 1

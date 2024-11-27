@@ -1,0 +1,48 @@
+>---------------{OBJECTIVE}---------------<
+The goal of a KARMAGGÄN game is to steal the Temple Egg, the player or team who successfully escapes with the Egg will claim victory.
+
+To achieve this, you must obtain the Egg from the Central Ring or forcibly take it from another Raider. Then, you must escape the Temple through an open Temple Gate and survive one last turn before fleeing into the jungle.
+
+
+
+>---------------{GAME MODES}---------------<
+There are two ways to play KARMAGGÄN:
+Team Match and Free-for-All.
+
+In Team Match, games are faster and utilize all of the game's mechanics. On the other hand, Free-for-All games tend to be somewhat more long and chaotic. Your choice depends on whether you want all the glory to yourself. By default, this manual explains the rules in the Team Match mode (Free-for-All do not have interactions between allies).
+
+
+
+>---------------{DEAD OR ALIVE}---------------<
+When a Raider loses all of his Blood Coins, they dies.
+
+But within KARMAGGÄN, death is only a threshold. From then on, the player continues as Tar Spawns, joining other players whose Raiders have died, and they will try to prevent the Egg from leaving the Temple at all costs.
+
+In a Team game, there will be two groups of Tar Spawns fighting for the victory of your team (dark vs light).
+
+
+
+>---------------{BOARD}---------------<
+The KARMAGGÄN board is made up of four concentric Rings and a Jungle with eight day and night trails. The only way to leave the Temple is by crossing a Temple Gate when it is open, so staying alive is important.
+
+All walls are impassable. They cannot be crossed in any way.
+
+The Temple is divided into Sectors, highlighted with golden embroidery. When a Ring rotates in a direction, it moves as number of sectors determined by the roll of the D6 Temple Dice.
+
+
+
+>---------------{GAME LAYOUT}---------------<
+For a balanced game, it is recommended to alternate players from each team around of the board. Turns are played in clockwise order.
+
+Each player then places their Raider on one of the eight starting points, located inside the Temple next to each Gate.
+
+Now, each player receives:
+* 4 Item Cards
+* 1 Golden Medallion
+* A number of Blood Coins according to the participants:
+	- 5 BC (7-8 players)
+	- 4 BC (4-6 players)
+	- 3 BC (3 players)
+	- 2 BC (2 players)
+
+The player with the least honor starts the game.
