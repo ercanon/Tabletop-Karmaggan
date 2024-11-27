@@ -14,13 +14,13 @@ Go to the center of the Temple to steal the Alien Egg and get out alive, but it 
 
 ## GAME CREDITS
 
-Game Design – Míster Jägger (Alberto Redondo) <br/>
-Illustrations – Juan Acosta <br/>
-Graphic Design – Alejandra Esteban Acosta / Hialejandra <br/>
-Graphic Design – Nuria Cobos <br/>
-Additional Graphic Design – Desirée Marchena <br/>
-Art Direction – Alberto Redondo <br/>
-Lead Game Testing – Alberto Redondo <br/>
+**Game Design** – Míster Jägger (Alberto Redondo) <br/>
+**Illustrations** – Juan Acosta <br/>
+**Graphic Design** – Alejandra Esteban Acosta / Hialejandra <br/>
+**Graphic Design** – Nuria Cobos <br/>
+**Additional Graphic Design** – Desirée Marchena <br/>
+**Art Direction** – Alberto Redondo <br/>
+**Lead Game Testing** – Alberto Redondo <br/>
 
 The creator, Míster Jägger:
 - [Twitter](https://twitter.com/misterjagger_?lang=es)
